@@ -1,0 +1,692 @@
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+
+.navigation-bar{
+background: url(../img/banner2.jpg)no-repeat;
+background-size: cover;
+}
+
+.cstm-logo{
+
+}
+a.nav-link {
+    margin: 19px 15px;
+    font-size: 23px;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    transition: 0.4s ease-in-out;
+}
+a.nav-link:hover{
+     color: #ED145B;
+}
+ .fa.fa-bars{
+    color: #fff;
+ }
+.mache-menu{
+
+}
+.mache-menu h1{
+   text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 300;
+    margin-top: 178px;
+    padding-bottom: 15px; 
+} 
+ 
+.title-span{
+   margin-right: 12px;
+    font-size: 43px;
+    font-weight: 600; 
+}
+.mache-span{
+    display: block;
+    margin: auto;
+    width: 18%;
+    border: 1px solid #F0145B;
+    margin-bottom: 20px;
+}
+.mache-menu p{
+  margin: auto;
+    width: 53%;
+    color: #C3C3C3;
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+    text-align: justify;
+    padding-bottom: 60px;  
+}
+.mache-btn{
+    display: block;
+    margin: auto;
+    width: 15%;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+    background: #ED145B;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 145px;
+    transition: 0.4s ease-in-out;
+}
+.mache-btn:hover{
+     background: #fff;
+     color: #ED145B;
+}
+/*About Title*/
+.about-section{
+     background: #F4F4F4;
+}
+.about-title{
+    margin-top: 60px;
+    
+}
+.about-title h1{
+    margin-bottom: 20px;
+    color: #606060;
+    font-size: 40px;
+    font-family: 'Roboto Slab', serif;
+}
+.about-title span{
+    display: block;
+    width: 30%;
+    border: 1px solid #EB1458;
+    margin-bottom: 28px;
+}
+.about-title p{
+    font-family: 'Roboto Slab', serif;
+    text-align: justify;
+}
+.about-title img{
+    width: 31%;
+     background: #F4F4F4; 
+}
+.about{
+
+}
+.about-img{
+    width: 115%;
+    margin-top: 150px;
+    margin-bottom: 25px;
+    position: absolute;
+ }
+/* Service Section*/
+
+.service-section{
+    
+}
+.service-title h2{
+    text-align: center;
+    color: #5A5A5A;
+     margin-top: 175px;
+    margin-bottom: 15px;
+    font-family: 'Roboto Slab', serif;
+}
+.service-title span{
+    display: block;
+    margin: auto;
+    width: 17%;
+    border: 1px solid #ED145B;
+}
+ .service-title p {
+    margin: auto;
+    width: 59%;
+    padding-bottom: 35px;
+    padding-top: 34px;
+    font-family: 'Roboto Slab', serif;
+}
+    
+  
+
+.service-menu img{
+    width: 60%;
+    padding-top: 100px;
+    display: block;
+    margin: auto;
+}
+.service-menu h5{
+    color: #ED145B;
+    font-size: 11px;
+    text-align: center;
+    margin-top: 18px;
+    margin-bottom: 80px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+}
+/*quotes section*/
+  .quotes-img-one {
+    margin-top: 219px;
+    margin-bottom: -39px;
+    width: 5%;
+}
+.quotes-img-two {
+    margin-top: 35px;
+    margin-bottom: 8px;
+}
+.carousel-menu{
+
+}
+ .carousel-menu p{
+    padding-top: 35px;
+    margin: auto;
+    width: 81%;
+     font-family: 'Roboto Slab', serif;
+}
+/*Prces Section*/
+
+.prices-title h2{
+    text-align: center;
+    margin-top: 115px;
+    font-size: 50px;
+    color: #5A5A5A;
+    font-family: 'Roboto Slab', serif;
+}
+.prices-title span{
+    display: block;
+    margin: auto;
+    width: 24%;
+    border: 1px solid #ED145B;
+    margin-top: 23px;
+    margin-bottom: 20px;  
+}
+.prices-title p{
+    margin: auto;
+    width: 55%;
+    font-size: 16px;
+    margin-bottom: 7%;
+    color: #737373;
+}
+ 
+.Prices-img{
+    width: 99%;
+    display: block;
+    margin: auto;
+    padding-bottom: 37px;
+}
+/*Aditional Info*/
+.info-section{
+    margin-top:95px ;
+    margin-bottom: 70px;
+}
+ 
+ .info-img {
+    position: absolute;
+    top: 4px;
+    left: 1px;
+    width: 36px;
+}
+ .info-menu h5 {
+    margin-left: 40px;
+    color: #ED145B;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+}
+ .info-menu p {
+    color: #848484;
+    font-size: 16px;
+    margin-left: 40px;
+    text-align: justify;
+    padding-bottom: 30px;
+}
+
+/*Join Us*/
+.join-us{
+    background: #ED145B;
+}
+.join h2{
+    margin-top: 10%;
+    color: #fff;
+    margin-bottom: 10%;
+    text-transform: uppercase;
+    font-size: 33px;
+    font-weight: 400;
+}
+.join span{
+    margin: 10px;
+    font-weight: 700;
+}
+ 
+.us-btn{
+    display: block;
+    margin: auto;
+    margin-top: 66px;
+    width: 130px;
+    height: 28%;
+    border: none;
+    border-radius: 30px;
+    font-size: 23px;
+    color: #ED145B;
+    transition: 0.4s ease-in-out;
+}
+.us-btn:hover{
+    background: #34CA49;
+    color: #fff;
+}
+/*News Section*/
+.news-section{
+
+}
+.news-title h2{
+    text-align: center;
+    margin-top: 10%;
+    text-transform: uppercase;
+    color: #5A5A5A;
+    margin-bottom: 2%;
+}
+ .news-title span {
+    display: block;
+    margin: auto;
+    width: 18%;
+    border: 1px solid #ED145B;
+    margin-bottom: 30px;
+}
+.news-title p{
+   margin: auto;
+    width: 53%;
+    padding-bottom: 10%; 
+    font-size: 16px;
+}
+ .news-img{
+     margin-bottom: 5px;
+    margin-top: 19px;
+ }
+  .news-img img {
+    width: 360px;
+    height: 250px;
+    margin-top: 20px;
+}
+ .news-img h6{
+    margin-top: -110px;
+    margin-left: 20px;
+    color: #fff
+ }
+ .news-img p{
+    margin-left: 20px;
+    color: #fff;
+ }
+  .news-img-hover {
+    background: #d9205d99;
+    position: absolute;
+    width: 360px;
+    height: 250px;
+    top: 0;
+    opacity: 0;
+    transition: 0.2s ease-in-out;
+    margin-top: 20px;
+}
+.fa.fa-search{
+    color: white;
+    margin: 59px 154px;
+    font-size: 39px;
+    position: absolute;
+}
+.news-img:hover .news-img-hover{
+opacity: 1;
+}
+.show-more h5{
+    text-align: center;
+    font-size: 13px;
+    margin-top: 10%;
+    color: #E01B5B;
+}
+ .fa.fa-angle-down {
+    font-size: 25px;
+    margin-bottom: 10%;
+    color: #D81C5B !important;
+    margin-left: 550px
+}
+
+
+/*Imformation Section*/ 
+
+.imformation-section{
+    background: url(../img/banner4.jpg)no-repeat;
+    background-size: cover;
+}
+.imfor-title h2{
+    text-align: center;
+    margin-top: 86px;
+    color: #F0F0F0;
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+}
+.imfor-title span{
+    display: block;
+    margin: auto;
+    width: 24%;
+    border: 1px solid #EB1458;
+    margin-top: 29px;
+    margin-bottom: 20px;
+}
+.imfor-title p{
+    margin: auto;
+    width: 66%;
+    text-align: justify;
+    color: #848484;
+    font-size: 16px;
+    margin-bottom: -8%;  
+}
+.imfor-btn{
+    margin: 12% auto;
+    display: block;  
+    width: 15%;
+    height: 52px;    
+    border-radius: 30px;
+    border: none;
+    background: #EB1458;
+    color: #fff;
+    font-size: 16px;
+    transition: 0.4s ease-in-out;
+}
+.imfor-btn:hover{
+    background: #fff;
+    color: #EB1458;
+}
+/*Download Section*/
+.download-section{
+
+}
+.download-menu{
+
+}
+.download-img{
+    width: 103%;
+    margin-top: 100px;
+    margin-bottom: 34px;
+    margin-left: -55px; 
+    margin-top: 85px;
+    margin-bottom: 40px;
+}
+.download-title h2{
+    margin-left: 35px;
+    margin-top: 140px;
+    font-size: 24px;
+    color: #5A5A5A;
+ }    
+.download-title span{
+    display: block;
+    width: 32%;
+    border: 1px solid #EB1458;
+    margin-left: 37px;
+    margin-top: 25px;
+}
+.download-title p{
+    margin-top: 20px;
+    margin-left: 35px;
+    text-align: justify;
+}
+.download-btn{
+    margin-left: 34px;
+    width: 151px;
+    height: 8%;
+    border-radius: 30px;
+    margin-top: 7px;
+    border: none;
+    background: #EB1458;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 13px;
+    transition: 0.4s ease-in-out;
+
+}
+
+.download-btn:hover{
+     background: #4A8AF4;
+     color: #fff;
+
+}
+/*footer section*/
+.footer-section{
+    background: #2B2B2B;
+
+}
+.text-title h5{
+    text-align: center;
+    color: #fff;
+    margin: 41px 0px;
+    font-size: 13px;
+    font-family: 'Roboto Slab', serif;
+}
+.text-content h6{
+    text-align: center;
+    margin: 41px 0px;
+    color: #fff;
+    font-size: 13px;
+    font-family: 'Roboto Slab', serif;
+}
+.text-content span{
+    color: #F10C5A;
+    margin-left: 6px;
+    font-size: 14px;
+    font-weight: 600;
+}
+ 
+
+
+
+
+/*Media query*/
+
+/* Mobile device*/
+
+@media (min-width: 320px) and (max-width: 576px){
+     
+      
+    
+ .mache-btn {
+    display: block;
+    margin: auto;
+    width: 30%;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+    background: #ED145B;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 145px;
+    transition: 0.4s ease-in-out;
+}
+.mache-menu h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 32px;
+    font-weight: 300;
+    margin-top: 120px;
+    padding-bottom: 15px;
+}
+.title-span {
+    margin-right: 12px;
+    font-size: 36px;
+    font-weight: 600;
+}
+.about-title h1 {
+    margin-bottom: 20px;
+    color: #606060;
+    font-size: 34px;
+    font-family: 'Roboto Slab', serif;
+}
+.about-title p {
+    font-family: 'Roboto Slab', serif;
+    text-align: justify;
+    margin-left: 5px;
+}
+.about-img {
+    width: 75%;
+    margin-top: 70px;
+    margin-bottom: 25px;
+}
+.service-menu img {
+    width: 48%;
+    padding-top: 70px;
+    display: block;
+    margin: auto;
+}
+.prices-title p {
+    margin: auto;
+    width: 55%;
+    font-size: 14px;
+    margin-bottom: 7%;
+    color: #737373;
+    text-align: justify;
+}
+.prices-title p {
+    margin: auto;
+    width: 87%;
+    font-size: 16px;
+    margin-bottom: 7%;
+    color: #737373;
+    text-align: justify;
+}
+.Prices-img {
+    width: 70%;
+    display: block;
+    margin: auto;
+    padding-bottom: 37px;
+}
+.info-img {
+    position: absolute;
+    top: 4px;
+    left: 67px;
+    width: 36px;
+}
+.info-menu h5 {
+    margin-left: 100px;
+    color: #ED145B;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+}
+.info-menu p {
+    text-align: justify;
+    color: #848484;
+    margin-left: 100px;
+}
+.us-btn {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    width: 130px;
+    height: 45%;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    color: #ED145B;
+    transition: 0.4s ease-in-out;
+    margin-bottom: 41px;
+}
+.join h2 {
+    margin-top: 10%;
+    color: #fff;
+    margin-bottom: 10%;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 400;
+}
+.news-title p {
+    margin: auto;
+    width: 86%;
+    padding-bottom: 10%;
+    font-size: 16px;
+    text-align: justify;
+}
+.imfor-btn {
+    margin: 16% auto;
+    display: block;
+    width: 32%;
+    height: 52px;
+    border-radius: 30px;
+    border: none;
+    background: #EB1458;
+    color: #fff;
+    font-size: 16px;
+    transition: 0.4s ease-in-out;
+} 
+.imfor-title p {
+    margin: auto;
+    width: 84%;
+    text-align: justify;
+    color: #848484;
+    font-size: 16px;
+    margin-bottom: -8%;
+}
+.download-img {
+    width: 91%;
+    margin-left: 31px;
+    margin-top: 85px;
+    margin-bottom: -29px;
+}
+.download-btn {
+    margin-left: 34px;
+    width: 151px;
+    height: 8%;
+    border-radius: 30px;
+    margin-top: 15px;
+    border: none;
+    background: #EB1458;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 13px;
+    transition: 0.4s ease-in-out;
+    margin-bottom: 20%;
+}
+a.nav-link {
+    margin: 5px 5px;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    transition: 0.4s ease-in-out;
+}
+.news-img {
+    margin-bottom: -12px;
+    margin-top: 55px;
+}
+.news-img-hover {
+    background: #d9205d99;
+    position: absolute;
+    width: 75%;
+    height: 100%;
+    top: 0;
+    opacity: 0;
+    transition: 0.2s ease-in-out;
+}
+ 
+.quotes-img-two {
+    margin-top: 30px;
+    margin-bottom: -33px;
+    width: 4%;
+}
+.carousel-menu p {
+    font-family: 'Roboto Slab', serif;
+    font-size: 9px;
+    margin-top: 3%;
+    margin-bottom: -30px;
+}
+ 
+.fa.fa-angle-down {
+    font-size: 25px;
+    margin-bottom: 10%;
+    color: #D81C5B !important;
+    margin-left: 221px;
+}
+
+
+
+}
+
+
+/*small & tab device*/
+
+@media (min-width: 576.01px) and (max-width: 768px){
+
+}
+
+
+/*notebook/laptop device*/
+
+@media (min-width: 992.01px) and (max-width: 1200px){
+
+} 
